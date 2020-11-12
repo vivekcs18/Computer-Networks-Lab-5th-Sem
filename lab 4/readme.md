@@ -1,2 +1,2 @@
 OUTCOME : 
-configured the default route for a lan toplogy
+configured the default and static route for a lan toplogy
