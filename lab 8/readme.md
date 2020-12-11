@@ -1,1 +1,1 @@
-1. Congestion Control using Leaky Bucket Algorithm
+Congestion Control using Leaky Bucket Algorithm
